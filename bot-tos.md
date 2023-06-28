@@ -60,4 +60,4 @@ Witamy! Dziękujemy za korzystanie z wielofunkcyjnego bota <b>RIVE</b>. Aby zape
 
 <ins>6.21.</ins> Zmiany w regulaminie zostaną opublikowane na stronie bota lub w inny sposób udostępnione użytkownikom.
 
-<mark>Zachęcamy do zapoznania się z regulaminem wielofunkcyjnego bota RIVE i przestrzegania jego zasad. Jeśli masz jakiekolwiek pytania lub wątpliwości, skontaktuj się z właścicielem bota pod adresem [adres kontaktowy]. Dziękujemy za korzystanie z naszego bota!
+<mark>Zachęcamy do zapoznania się z regulaminem Rive i przestrzegania jego zasad. Jeśli masz jakiekolwiek pytania lub wątpliwości, skontaktuj się z nami poprzez [serwer discord](https://discord.gg/tZKCyyETk9). Dziękujemy za korzystanie z naszego bota!
