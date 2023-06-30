@@ -1,4 +1,4 @@
-# ENG VERSION: [CLICK](https://github.com/1wayyy/rive.best/edit/main/bot-tos.md)
+# ENG VERSION: [CLICK](https://github.com/1wayyy/rive.best/blob/main/bot-tos.md)
 
 
 Witamy! Dziękujemy za korzystanie z wielofunkcyjnego bota <b>RIVE</b>. Aby zapewnić wszystkim użytkownikom przyjemne i bezpieczne doświadczenie, prosimy o zapoznanie się z poniższym regulaminem. Używając naszego bota, zgadzasz się przestrzegać tych zasad. Jeśli nie zgadzasz się z regulaminem, nie korzystaj z naszego bota.
