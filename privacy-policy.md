@@ -1,4 +1,4 @@
-# PL VERSION: [CLICK](https://github.com/1wayyy/rive.best/edit/main/privacy-policy_pl.md.md)
+# PL VERSION: [CLICK](https://github.com/1wayyy/rive.best/blob/main/privacy-policy_pl.md)
 
 # Rive Bot Privacy Policy on Discord
 > This privacy policy describes how the Rive bot collects, uses, and protects user data when using Discord.
