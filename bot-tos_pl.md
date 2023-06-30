@@ -15,14 +15,10 @@ Witamy! Dziękujemy za korzystanie z wielofunkcyjnego bota <b>RIVE</b>. Aby zape
 
 <ins>2.3.</ins> Nie możesz używać bota w sposób, który mógłby spowodować przeciążenie lub zakłócenie działania systemu.
 
-<ins>2.4.</ins> Bot może być wykorzystywany tylko przez osoby, które mają odpowiednią zgodę na korzystanie z niego, lub przez osoby, które są uprawnione do korzystania z bota na mocy obowiązujących przepisów.
-
-<ins>2.5.</ins> Zabrania się używania bota w celu rozpowszechniania spamu, reklam, wirusów, malware'u lub innych szkodliwych treści.
+<ins>2.4.</ins> Zabrania się używania bota w celu rozpowszechniania spamu, reklam, wirusów, malware'u lub innych szkodliwych treści.
 
 ## Prywatność
-<ins>3.1.</ins> Właściciel bota dokłada wszelkich starań, aby chronić prywatność użytkowników. Informacje gromadzone przez bota są przechowywane zgodnie z polityką prywatności, dostępną na stronie [link do polityki prywatności].
-
-<ins>3.2.</ins> Nie podawaj wrażliwych informacji osobistych ani poufnych danych podczas korzystania z bota. Właściciel bota nie ponosi odpowiedzialności za szkody wynikłe z ujawnienia takich informacji. 
+<ins>3.1.</ins> Właściciel bota dokłada wszelkich starań, aby chronić prywatność użytkowników. Informacje gromadzone przez bota są przechowywane zgodnie z polityką prywatności, dostępną na stronie [kliknij](https://github.com).
 
 ## Odpowiedzialność
 <ins>4.1.</ins> Właściciel bota nie ponosi odpowiedzialności za szkody wynikłe z korzystania z bota, w tym szkody wynikłe z błędów, przerw w dostępie, utraty danych lub innych problemów technicznych.
