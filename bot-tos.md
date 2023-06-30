@@ -17,7 +17,7 @@ Welcome! Thank you for using the multifunctional bot <b>RIVE</b>. To ensure a pl
 <ins>2.4.</ins> The use of the bot for the purpose of distributing spam, advertisements, viruses, malware, or other harmful content is strictly prohibited.
 
 ## Privacy
-<ins>3.1.</ins> The bot owner makes every effort to protect the privacy of users. Information collected by the bot is stored in accordance with the privacy policy available on the [click](https://github.com).
+<ins>3.1.</ins> The bot owner makes every effort to protect the privacy of users. Information collected by the bot is stored in accordance with the privacy policy available on the [click](https://github.com/1wayyy/rive.best/blob/main/privacy-policy.md).
 
 ## Liability
 <ins>4.1.</ins> The bot owner is not liable for any damages resulting from the use of the bot, including damages arising from errors, access interruptions, data loss, or other technical issues.
