@@ -14,21 +14,15 @@ Welcome! Thank you for using the multifunctional bot <b>RIVE</b>. To ensure a pl
 
 <ins>2.3.</ins> You may not use the bot in a way that could overload or disrupt the system's operation.
 
-<ins>2.4.</ins> The bot may only be used by individuals who have proper authorization to use it or by individuals who are entitled to use the bot under applicable regulations.
-
-<ins>2.5.</ins> The use of the bot for the purpose of distributing spam, advertisements, viruses, malware, or other harmful content is strictly prohibited.
+<ins>2.4.</ins> The use of the bot for the purpose of distributing spam, advertisements, viruses, malware, or other harmful content is strictly prohibited.
 
 ## Privacy
-<ins>3.1.</ins> The bot owner makes every effort to protect the privacy of users. Information collected by the bot is stored in accordance with the privacy policy available on the [privacy policy link].
-
-<ins>3.2.</ins> Do not provide sensitive personal information or confidential data while using the bot. The bot owner is not responsible for any damages resulting from the disclosure of such information.
+<ins>3.1.</ins> The bot owner makes every effort to protect the privacy of users. Information collected by the bot is stored in accordance with the privacy policy available on the [click](https://github.com).
 
 ## Liability
 <ins>4.1.</ins> The bot owner is not liable for any damages resulting from the use of the bot, including damages arising from errors, access interruptions, data loss, or other technical issues.
 
 <ins>4.2.</ins> The user bears full responsibility for using the bot and any actions taken based on information obtained from the bot.
-
-<ins>4.3.</ins> The bot owner reserves the right to change, suspend, or terminate the operation of the bot at any time without prior notice.
 
 ## Reporting Violations
 <ins>5.1.</ins> If you believe that another user is violating the terms and conditions or engaging in harmful activities using the bot, please promptly report it to the bot owner.
