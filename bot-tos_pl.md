@@ -18,7 +18,7 @@ Witamy! Dziękujemy za korzystanie z wielofunkcyjnego bota <b>RIVE</b>. Aby zape
 <ins>2.4.</ins> Zabrania się używania bota w celu rozpowszechniania spamu, reklam, wirusów, malware'u lub innych szkodliwych treści.
 
 ## Prywatność
-<ins>3.1.</ins> Właściciel bota dokłada wszelkich starań, aby chronić prywatność użytkowników. Informacje gromadzone przez bota są przechowywane zgodnie z polityką prywatności, dostępną na stronie [kliknij](https://github.com/1wayyy/rive.best/blob/main/privacy-policy_pl.md).
+<ins>3.1.</ins> Właściciel bota dokłada wszelkich starań, aby chronić prywatność użytkowników. Informacje gromadzone przez bota są przechowywane zgodnie z polityką prywatności, dostępną na stronie [kliknij](https://github.com/rivebest/rive.best/blob/main/privacy-policy_pl.md).
 
 ## Odpowiedzialność
 <ins>4.1.</ins> Właściciel bota nie ponosi odpowiedzialności za szkody wynikłe z korzystania z bota, w tym szkody wynikłe z błędów, przerw w dostępie, utraty danych lub innych problemów technicznych.
