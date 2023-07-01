@@ -1,4 +1,4 @@
-# PL VERSION: [CLICK](https://github.com/1wayyy/rive.best/blob/main/bot-tos_pl.md)
+# PL VERSION: [CLICK](https://github.com/rivebest/rive.best/blob/main/bot-tos_pl.md)
 
 Welcome! Thank you for using the multifunctional bot <b>RIVE</b>. To ensure a pleasant and safe experience for all users, please familiarize yourself with the following terms and conditions. By using our bot, you agree to abide by these rules. If you do not agree with the terms and conditions, please do not use our bot.
 
