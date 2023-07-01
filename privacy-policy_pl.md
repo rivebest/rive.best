@@ -1,4 +1,4 @@
-# ENG VERSION: [CLICK](https://github.com/1wayyy/rive.best/blob/main/privacy-policy.md)
+# ENG VERSION: [CLICK](https://github.com/rivebest/rive.best/blob/main/privacy-policy.md)
 
 # Polityka prywatności bota Rive na Discordzie
 > Niniejsza polityka prywatności opisuje, **w jaki sposób bot Rive gromadzi, wykorzystuje i chroni dane użytkowników podczas korzystania z Discorda**.
