@@ -14,6 +14,7 @@
       <li>Dane konkursowe: W przypadku udziału w konkursach na serwerach Discorda, bot Rive może tymczasowo przechowywać dane takie jak dokładna data dołączenia do konkursu, identyfikator serwera, użytkownika i konkursu. Te dane są gromadzone w celu prowadzenia konkursów i późniejszego ogłoszenia zwycięzców.</li>
       <li>Dane związane z prywatnymi kanałami: Podczas korzystania z prywatnych kanałów, bot Rive może przechowywać dane takie jak identyfikator serwera, użytkownika, kanału i datę utworzenia takiego kanału. Te dane są gromadzone w celu umożliwienia funkcji związanych z prywatnymi kanałami, ale są usuwane natychmiast po usunięciu kanału.</li>
       <li>Dane związane z akcjami moderacyjnymi: Bot Rive może gromadzić dane związane z akcjami moderacyjnymi, takie jak zgłoszenia i informacje dotyczące naruszeń, celem udostępnienia ich w panelu bota. Te informacje mogą być wykorzystywane przez administratorów serwera do monitorowania i utrzymania porządku na serwerze Discord.</li>
+      <li>Dane związane z wiadomościami: Bot Rive może gromadzić dane takie jak zawartość wiadomości tylko i wyłącznie na kanale z włączoną funkcją cleverbot.</li>
     </ol>
   </li>
   <li>Cel gromadzenia danych
@@ -23,6 +24,8 @@
       <li>Analiza i rozwój: Dane gromadzone przez bota Rive mogą być wykorzystywane do analizy i rozwijania funkcji oraz usług bota w celu poprawy doświadczenia użytkowników. Przykładowo, bot może analizować dane ekonomiczne, takie jak zmiany w kwotach, zakupy użytkowników itp., w celu zrozumienia preferencji użytkowników i udoskonalania systemu ekonomicznego.</li>
       <li>Bezpieczeństwo i moderacja: Dane związane z akcjami moderacyjnymi są gromadzone w celu zapewnienia bezpieczeństwa serwerów Discorda i monitorowania naruszeń. Te informacje mogą być wykorzystywane przez administratorów serwera do podejmowania odpowiednich działań w przypadku naruszeń regulaminu.</li>
       <li>Zgłoszenia konkursowe: Dane konkursowe są gromadzone w celu przeprowadzenia konkursów i ogłoszenia zwycięzców. Bot Rive może wykorzystywać te dane w celu sprawdzenia i potwierdzenia prawidłowego udziału w konkursie oraz kontaktowania się z zwycięzcami.</li>
+      <li>Cleverbot: Dane gromadzone przez bota Rive wykorzystywane są jedynie w celu "pociągnięcia wątku", a dokładniej do zachowania kontekstu, dane jakie są zapisywane to tylko i wyłącznie zawartość wiadomości (sam tekst). Dane usuwane są licząc 5 minut od ostatniej wiadomości wysłanej przez cleverbota/Rive - Proces ten jest w pełni automatyczny.</li>
+      <ol>W przypadku wyrażenia chęci natychmiastowego usunięcia danych Użytkownika (z funkcji cleverbot) należy zgłosić się na naszym serwerze support do osoby z naszego zespołu.</ol>
     </ol>
   </li>
   <li>Ochrona danych
