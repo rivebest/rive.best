@@ -14,6 +14,7 @@
       <li>Contest data: In case of participation in contests on Discord servers, the Rive bot may temporarily store data such as the exact joining date, server identifier, user, and contest. This data is collected for conducting contests and announcing winners later.</li>
       <li>Private channel-related data: While using private channels, the Rive bot may store data such as server identifier, user, channel, and creation date of such channels. This data is collected to enable private channel-related features but is immediately deleted upon channel removal.</li>
       <li>Moderation action-related data: The Rive bot may collect data related to moderation actions, such as reports and violation information, for their availability in the bot's panel. Server administrators can use this information to monitor and maintain order on the Discord server.</li>
+      <li>Data related to messages: Bot Rive can collect data such as message content only on channels with the cleverbot feature enabled.</li>
     </ol>
   </li>
   <li>Purpose of data collection
@@ -23,6 +24,8 @@
       <li>Analysis and development: Data collected by the Rive bot may be used for analysis and development of bot features and services to enhance user experience. For example, the bot may analyze economic data, such as changes in amounts, user purchases, etc., to understand user preferences and improve the economic system.</li>
       <li>Security and moderation: Data related to moderation actions is collected to ensure the security of Discord servers and monitor violations. This information may be used by server administrators to take appropriate actions in case of rule violations.</li>
       <li>Contest submissions: Contest data is collected for conducting contests and announcing winners. The Rive bot may use this data to verify and confirm valid participation in the contest and to contact winners.</li>
+      <li>Cleverbot: Data collected by the Rive bot is used solely for "thread continuity," specifically to maintain context. The data saved includes only the content of the messages (the text itself). The data is automatically deleted after 5 minutes from the last message sent by Cleverbot/Rive - This process is fully automated.</li>
+<ol>If the user wishes to have their data (from the Cleverbot function) immediately removed, they should contact our support on our server and speak with a member of our team.</ol>
     </ol>
   </li>
   <li>Data protection
